@@ -191,7 +191,7 @@ export default class Category extends Component {
                       onClick={this.showAdd}
                       style={{float: 'right'}}>
                 <Icon type="plus"/>添加品类
-              </Button>
+              </Button>0
             </Card>
         )
 
